@@ -1,0 +1,7 @@
+# Configuration file for PrivateChatPlugin
+
+# Permission node required to view private chat messages
+permission_node: "privatechat.view"
+
+# Color of the private chat messages (Valid color names: BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE)
+private_chat_color: "AQUA"
